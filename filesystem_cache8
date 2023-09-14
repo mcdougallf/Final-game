@@ -1,0 +1,167 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1694676081
+main_level.tscn::PackedScene::8498151813093735423::1694675347::0::1::::<><>::uid://c7vhyvi4ikx0g::::res://Tiny Tower FREE.png<>uid://c1grbq4kevvfh::::res://main_player/main_player.tscn<>uid://dho8ophtdyucw::::res://main_player/Enemies/snail/snail.tscn<>res://Menu.gd
+Menu.gd::GDScript::-1::1694675360::0::1::::<>CanvasLayer<>::
+menu.tscn::PackedScene::5359298630349382366::1694674924::0::1::::<><>::res://Menu.gd
+Timer.gd::GDScript::-1::1694670846::0::1::::<>RefCounted<>::
+Tiny Tower FREE.png::CompressedTexture2D::7062705291319103268::1685314484::1693621133::1::::<><>::
+::res://HUD/::1694675315
+Base-01.png::CompressedTexture2D::2898096207485691243::1694674493::1694674493::1::::<><>::
+Menu Buttons sprite (BnW).png::CompressedTexture2D::7511248640694303201::1694675314::1694675315::1::::<><>::
+::res://main_player/::1694675044
+main_player.gd::GDScript::-1::1694675044::0::1::::<>CharacterBody2D<>::
+main_player.tscn::PackedScene::6611172428803817325::1694672039::0::1::::<><>::res://main_player/main_player.gd<>uid://d1634ptey452y::::res://main_player/Character/Idle/Idle-Sheet.png<>uid://ddeiq8kuouw6m::::res://main_player/Character/Attack-01/Attack-01-Sheet.png<>uid://u1eg3y2g53io::::res://main_player/Character/Jump-End/Jump-End-Sheet.png<>uid://cv6wnsy80agov::::res://main_player/Character/Jump-Start/Jump-Start-Sheet.png<>uid://bdnhjpmia1ba2::::res://main_player/Character/Jumlp-All/Jump-All-Sheet.png<>uid://k6r4g0fylo3y::::res://main_player/Character/Run/Run-Sheet.png
+Sword hitbox size.gd::GDScript::-1::1694597291::0::1::::<>RefCounted<>::
+Sword hitbox.gd::GDScript::-1::1694640085::0::1::::<>RefCounted<>::
+::res://main_player/Character/::1694317582
+::res://main_player/Character/Attack-01/::1694317581
+Attack-01-Sheet.png::CompressedTexture2D::7378602151301078146::1694072514::1694072514::1::::<><>::
+::res://main_player/Character/Dead/::1694317581
+Dead-Sheet.png::CompressedTexture2D::4021024993270744267::1694072514::1694072514::1::::<><>::
+::res://main_player/Character/Idle/::1694317581
+Idle-Sheet.png::CompressedTexture2D::9049920377281226446::1694072514::1694072514::1::::<><>::
+::res://main_player/Character/Jumlp-All/::1694317581
+Jump-All-Sheet.png::CompressedTexture2D::2624266023256896239::1694072514::1694072514::1::::<><>::
+::res://main_player/Character/Jump/::1694317581
+::res://main_player/Character/Jump-End/::1694317582
+Jump-End-Sheet.png::CompressedTexture2D::1457705786065793342::1694072514::1694072514::1::::<><>::
+::res://main_player/Character/Jump-Start/::1694317582
+Jump-Start-Sheet.png::CompressedTexture2D::6312162767350754489::1694072514::1694072514::1::::<><>::
+::res://main_player/Character/Run/::1694317582
+Run-Sheet.png::CompressedTexture2D::766968477676358720::1694072514::1694072514::1::::<><>::
+::res://main_player/Enemies/::1694674452
+::res://main_player/Enemies/Character/::1694674452
+::res://main_player/Enemies/Character/Attack-01/::1694674452
+Attack-01-Sheet.png::CompressedTexture2D::5975108734184832753::1694674452::1694674452::1::::<><>::
+::res://main_player/Enemies/Character/Dead/::1694674452
+Dead-Sheet.png::CompressedTexture2D::2682780674101751719::1694674452::1694674452::1::::<><>::
+::res://main_player/Enemies/Character/Idle/::1694674452
+Idle-Sheet.png::CompressedTexture2D::5632164644528669166::1694674452::1694674452::1::::<><>::
+::res://main_player/Enemies/Character/Jumlp-All/::1694674452
+Jump-All-Sheet.png::CompressedTexture2D::8924397362926592864::1694674452::1694674452::1::::<><>::
+::res://main_player/Enemies/Character/Jump/::1694674452
+::res://main_player/Enemies/Character/Jump-End/::1694674452
+Jump-End-Sheet.png::CompressedTexture2D::7154159283311412859::1694674452::1694674452::1::::<><>::
+::res://main_player/Enemies/Character/Jump-Start/::1694674452
+Jump-Start-Sheet.png::CompressedTexture2D::1928453653354996014::1694674452::1694674452::1::::<><>::
+::res://main_player/Enemies/Character/Run/::1694674452
+Run-Sheet.png::CompressedTexture2D::3693604262219478788::1694674452::1694674452::1::::<><>::
+::res://main_player/Enemies/Mob/::1694518767
+::res://main_player/Enemies/Mob/Boar/::1694518767
+::res://main_player/Enemies/Mob/Boar/Hit-Vanish/::1694518767
+Hit-Sheet-Black.png::CompressedTexture2D::4270465496652102503::1694518767::1694518767::1::::<><>::
+Hit-Sheet-White.png::CompressedTexture2D::5435801947204079101::1694518767::1694518767::1::::<><>::
+Hit-Sheet.png::CompressedTexture2D::8061205885117008991::1694518767::1694518767::1::::<><>::
+::res://main_player/Enemies/Mob/Boar/Idle/::1694518767
+Idle-Sheet-export-Back.png::CompressedTexture2D::316510125971456678::1694518767::1694518767::1::::<><>::
+Idle-Sheet-White.png::CompressedTexture2D::8575016518631807833::1694518767::1694518767::1::::<><>::
+Idle-Sheet.png::CompressedTexture2D::3587182444073391173::1694518767::1694518767::1::::<><>::
+::res://main_player/Enemies/Mob/Boar/Run/::1694518767
+Run-Sheet-Black.png::CompressedTexture2D::5513222604352034541::1694518767::1694518767::1::::<><>::
+Run-Sheet-White.png::CompressedTexture2D::7478920788661591730::1694518767::1694518767::1::::<><>::
+Run-Sheet.png::CompressedTexture2D::1627200386024483687::1694518767::1694518767::1::::<><>::
+::res://main_player/Enemies/Mob/Boar/Walk/::1694518767
+Walk-Base-Sheet-White.png::CompressedTexture2D::6459277285188496889::1694518767::1694518767::1::::<><>::
+Walk-Base-Sheet.png::CompressedTexture2D::7213077413872109914::1694518767::1694518767::1::::<><>::
+Walk-Base-SheetBlack.png::CompressedTexture2D::3979847540302748728::1694518767::1694518767::1::::<><>::
+::res://main_player/Enemies/Mob/Small Bee/::1694518767
+::res://main_player/Enemies/Mob/Small Bee/Attack/::1694518767
+Attack-Sheet.png::CompressedTexture2D::757325621265625836::1694518767::1694518767::1::::<><>::
+::res://main_player/Enemies/Mob/Small Bee/Fly/::1694518767
+Fly-Sheet.png::CompressedTexture2D::2339215068323376912::1694518767::1694518767::1::::<><>::
+::res://main_player/Enemies/Mob/Small Bee/Hit/::1694518767
+Hit-Sheet.png::CompressedTexture2D::7795762350826348760::1694518767::1694518767::1::::<><>::
+::res://main_player/Enemies/Mob/Snail/::1694518767
+all.png::CompressedTexture2D::6149048641649521314::1694518767::1694518767::1::::<><>::
+Dead-Sheet.png::CompressedTexture2D::4352931637635408097::1694518767::1694518767::1::::<><>::
+Hide-Sheet.png::CompressedTexture2D::5194357686700190303::1694518767::1694518767::1::::<><>::
+walk-Sheet.png::CompressedTexture2D::8414583714968686215::1694518767::1694518767::1::::<><>::
+::res://main_player/Enemies/snail/::1694672039
+Damageable.gd::GDScript::-1::1694598234::0::1::::<>RefCounted<>::
+snail.gd::GDScript::-1::1694667982::0::1::::<>RefCounted<>::
+snail.tscn::PackedScene::7681514706510460218::1694672039::0::1::::<><>::uid://4xl3y7k6hrg8::::res://main_player/Enemies/snail/Snail/Dead-Sheet.png<>uid://cg11jypwvhphp::::res://main_player/Enemies/snail/Snail/walk-Sheet.png
+::res://main_player/Enemies/snail/Snail/::1694488709
+all.png::CompressedTexture2D::3187953805105623370::1694488709::1694488709::1::::<><>::
+Dead-Sheet.png::CompressedTexture2D::2083676353486302617::1694488709::1694488709::1::::<><>::
+Hide-Sheet.png::CompressedTexture2D::8711925719546362413::1694488709::1694488709::1::::<><>::
+walk-Sheet.png::CompressedTexture2D::5249244249537427521::1694488709::1694488709::1::::<><>::
+::res://main_player/Knight_1/::1694317582
+Attack 1.png::CompressedTexture2D::8982399504928179838::1693619454::1693619454::1::::<><>::
+Attack 2.png::CompressedTexture2D::1539336674797356896::1693619454::1693619454::1::::<><>::
+Attack 3.png::CompressedTexture2D::8100080516863413557::1693619454::1693619454::1::::<><>::
+Dead.png::CompressedTexture2D::4550579196769282205::1693619454::1693619454::1::::<><>::
+Defend.png::CompressedTexture2D::2550903502103698518::1693619454::1693619454::1::::<><>::
+Hurt.png::CompressedTexture2D::7892473212063870681::1693619454::1693619454::1::::<><>::
+Idle.png::CompressedTexture2D::6153465860672453189::1693619454::1693619506::1::::<><>::
+Jump.png::CompressedTexture2D::1840674245863849711::1693619454::1693619454::1::::<><>::
+Protect.png::CompressedTexture2D::1258488667057010039::1693619454::1693619454::1::::<><>::
+Run+Attack.png::CompressedTexture2D::6532225693278020610::1693619454::1693619454::1::::<><>::
+Run.png::CompressedTexture2D::4562095614205156368::1693619454::1693619454::1::::<><>::
+Walk.png::CompressedTexture2D::4780895500745997330::1693619454::1693619454::1::::<><>::
+::res://Menu Buttons/::1694676081
+Menu Buttons sprite (BnW).png::CompressedTexture2D::1259580072639181809::1694676081::1694676082::1::::<><>::
+Menu Buttons sprite (Colored).png::CompressedTexture2D::4002939726043383467::1694676081::1694676082::1::::<><>::
+::res://Menu Buttons/Large Buttons/::1694676081
+::res://Menu Buttons/Large Buttons/Colored Large Buttons/::1694676081
+Back  col_Button.png::CompressedTexture2D::6061555815314153315::1694676081::1694676082::1::::<><>::
+Continue  col_Button.png::CompressedTexture2D::6838388336118792742::1694676081::1694676082::1::::<><>::
+Controls  col_Button.png::CompressedTexture2D::2835530954149923952::1694676081::1694676082::1::::<><>::
+Exit  col_Button.png::CompressedTexture2D::1473974487629224176::1694676081::1694676082::1::::<><>::
+Load  col_Button.png::CompressedTexture2D::8167181375451746010::1694676081::1694676082::1::::<><>::
+Menu  col_Button.png::CompressedTexture2D::8197075231051147118::1694676081::1694676082::1::::<><>::
+New Game  col_Button.png::CompressedTexture2D::4438145611450490578::1694676081::1694676082::1::::<><>::
+Options  col_Button.png::CompressedTexture2D::570598823914287505::1694676081::1694676082::1::::<><>::
+Play col_Button.png::CompressedTexture2D::1575010709318801580::1694676081::1694676082::1::::<><>::
+Quit  col_Button.png::CompressedTexture2D::7791483582960600791::1694676081::1694676082::1::::<><>::
+Resume  col_Button.png::CompressedTexture2D::4100312857885463207::1694676081::1694676082::1::::<><>::
+Settings  col_Button.png::CompressedTexture2D::455364160747419889::1694676081::1694676082::1::::<><>::
+Start  col_Button.png::CompressedTexture2D::7805606093547108820::1694676081::1694676082::1::::<><>::
+::res://Menu Buttons/Large Buttons/Large Buttons/::1694676081
+Back Button.png::CompressedTexture2D::7568538007499846738::1694676081::1694676082::1::::<><>::
+Continue Button.png::CompressedTexture2D::2465092689163286856::1694676081::1694676082::1::::<><>::
+Controls Button.png::CompressedTexture2D::4697943063198133361::1694676081::1694676082::1::::<><>::
+Exit Button.png::CompressedTexture2D::5628108874284896642::1694676081::1694676082::1::::<><>::
+Load Button.png::CompressedTexture2D::7726217248431547764::1694676081::1694676082::1::::<><>::
+Menu Button.png::CompressedTexture2D::3446842665254859647::1694676081::1694676082::1::::<><>::
+New game Button.png::CompressedTexture2D::2928348992628234833::1694676081::1694676082::1::::<><>::
+Options Button.png::CompressedTexture2D::2944842497654949518::1694676081::1694676082::1::::<><>::
+Play Button.png::CompressedTexture2D::2685784639001202434::1694676081::1694676082::1::::<><>::
+Quit Button.png::CompressedTexture2D::4542894541465571959::1694676081::1694676082::1::::<><>::
+Resume Button.png::CompressedTexture2D::1478748744414214899::1694676081::1694676082::1::::<><>::
+Settings Button.png::CompressedTexture2D::6055198855731824830::1694676081::1694676082::1::::<><>::
+Start Button.png::CompressedTexture2D::4109285973679310644::1694676081::1694676082::1::::<><>::
+::res://Menu Buttons/Square Buttons/::1694676081
+::res://Menu Buttons/Square Buttons/Colored Square Buttons/::1694676081
+Audio col_Square Button.png::CompressedTexture2D::2817128111155895627::1694676081::1694676082::1::::<><>::
+Back col_Square Button.png::CompressedTexture2D::2579289731047532719::1694676081::1694676082::1::::<><>::
+Down col_Square Button.png::CompressedTexture2D::1113982796411276714::1694676081::1694676082::1::::<><>::
+Home col_Square Button.png::CompressedTexture2D::8118705986857524409::1694676081::1694676082::1::::<><>::
+Info col_Square Button.png::CompressedTexture2D::8264009645659657133::1694676081::1694676082::1::::<><>::
+Music col_Square Button.png::CompressedTexture2D::5539431029336399804::1694676081::1694676082::1::::<><>::
+Next col_Square Button.png::CompressedTexture2D::1282773609357209808::1694676081::1694676082::1::::<><>::
+On Off col_Square Button.png::CompressedTexture2D::1410550170354013468::1694676081::1694676082::1::::<><>::
+Pause col_Square Button.png::CompressedTexture2D::4078158413270418964::1694676081::1694676082::1::::<><>::
+Play col_Square Button.png::CompressedTexture2D::3798687479976024741::1694676081::1694676082::1::::<><>::
+Questionmark col_Square Button.png::CompressedTexture2D::3664556278772005991::1694676081::1694676082::1::::<><>::
+Return col_Square Button.png::CompressedTexture2D::4351661007289154910::1694676081::1694676082::1::::<><>::
+Settings col_Square Button.png::CompressedTexture2D::1446930372212604968::1694676081::1694676082::1::::<><>::
+Up col_Square Button.png::CompressedTexture2D::5605538794442539622::1694676081::1694676082::1::::<><>::
+V col_Square Button.png::CompressedTexture2D::4826772529242977905::1694676081::1694676082::1::::<><>::
+X col_Square Button.png::CompressedTexture2D::5434708008421958013::1694676081::1694676082::1::::<><>::
+::res://Menu Buttons/Square Buttons/Square Buttons/::1694676081
+Audio Square Button.png::CompressedTexture2D::7482430243129784016::1694676081::1694676082::1::::<><>::
+Back Square Button.png::CompressedTexture2D::5758177769349462970::1694676081::1694676082::1::::<><>::
+Down Square Button.png::CompressedTexture2D::7478243564799490008::1694676081::1694676082::1::::<><>::
+Home Square Button.png::CompressedTexture2D::2591525922248089722::1694676081::1694676082::1::::<><>::
+Info Square Button.png::CompressedTexture2D::556784308003785889::1694676081::1694676082::1::::<><>::
+Music Square Button.png::CompressedTexture2D::6726201984619203304::1694676081::1694676082::1::::<><>::
+Next Square Button.png::CompressedTexture2D::8201455010403594385::1694676081::1694676082::1::::<><>::
+On Off Square Button.png::CompressedTexture2D::4215709751944962236::1694676081::1694676082::1::::<><>::
+Pause Square Button.png::CompressedTexture2D::3445282419153598533::1694676081::1694676082::1::::<><>::
+Play Square Button.png::CompressedTexture2D::1172569005242449962::1694676081::1694676082::1::::<><>::
+Questionmark Square Button.png::CompressedTexture2D::8749875472423657023::1694676081::1694676082::1::::<><>::
+Return Square Button.png::CompressedTexture2D::623376523387858789::1694676081::1694676082::1::::<><>::
+Settings Square Button.png::CompressedTexture2D::2642152363725188094::1694676081::1694676082::1::::<><>::
+Up Square Button.png::CompressedTexture2D::2695704613078794259::1694676081::1694676082::1::::<><>::
+V Square Button.png::CompressedTexture2D::1732009408608950104::1694676081::1694676082::1::::<><>::
+X Square Button.png::CompressedTexture2D::4068558343020432278::1694676081::1694676082::1::::<><>::
